@@ -10,12 +10,25 @@
 
 }
 
+#img2 {
+    z-index: -999;
+    height: 100dvh;
+    width: 201dvh;
+}
+
 
 .casper2 {
     position: relative;
     display: inline-block;
 
 }
+
+#casper1 {
+    position: relative;
+    display: inline-block;
+}
+
+
 
 #name {
     position: absolute;
@@ -27,16 +40,26 @@
     font-weight: bold;
 }
 
+#casperpage3 {
+    position: absolute;
+    top: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    color: white;
+    font-size: 44px;
+    2 font-weight: bold;
+}
+
 #casper3 {
-   position: absolute;
-    top: 10px;       
-    left: 50px;      
-    background-color: rgb(0, 0, 0,0.5);
+    position: absolute;
+    top: 10px;
+    left: 50px;
+    background-color: rgb(0, 0, 0, 0.5);
     width: 40px;
     text-align: center;
     padding: 40px;
     color: rgb(252, 249, 249);
-    border-radius: 6px; 
+    border-radius: 6px;
     border: 2px solid cyan
 }
 
@@ -49,8 +72,7 @@
     height: -125px;
     color: white;
     border: 2px solid cyan;
-    background-color: rgb(0, 0, 0,0.5)
-
+    background-color: rgb(0, 0, 0, 0.5)
 }
 
 #casper5 {
@@ -62,6 +84,111 @@
     height: 125px;
     border: 2px solid cyan;
     background-color: white
-    
+}
 
+.casper6 {
+    position: absolute;
+    background-color: rgb(0, 0, 0, 0.5);
+    top: 350px;
+    right: 100px;
+    color: white;
+    height: 165px;
+    padding: 40px;
+    width: 450px;
+    border: 2px solid cyan;
+}
+
+.casper7 {
+    position: absolute;
+    background-color: rgb(0, 0, 0, 0.5);
+    top: 450px;
+    left: 40px;
+    color: white;
+    height: 70px;
+    padding: 40px;
+    width: 450px;
+    border: 2px solid cyan;
+
+}
+
+
+#lopus1 {
+    height: 60px;
+    text-align: right;
+}
+
+#lopus2 {
+    text-align: left;
+    height: 1%;
+}
+
+#lopus3 {
+    text-align: center;
+
+}
+
+#lopus4 {
+
+    text-align: right;
+
+}
+
+.casper8 {
+    position: absolute;
+    top: 470px;
+    left: 80px;
+    color: rgb(6, 6, 6);
+    height: 70px;
+    padding: 30px;
+    width: 90px;
+
+}
+
+.casper9 {
+    position: absolute;
+    top: 470px;
+    left: 265px;
+    color: rgb(6, 6, 6);
+    height: 70px;
+    padding: 30px;
+    width: 90px;
+
+}
+
+.casper10 {
+    position: absolute;
+    top: 470px;
+    left: 450px;
+    color: rgb(6, 6, 6);
+    height: 70px;
+    padding: 30px;
+    width: 90px;
+
+}
+
+#casper11{
+    position: absolute;
+    top: 40px;
+    height: 3%;
+    left: 50px;
+    background-color: rgb(0, 0, 0, 0.5);
+    width: 20px;
+    text-align: center;
+    padding: 50px;
+    color: rgb(252, 249, 249);
+    border-radius: 6px;
+    border: 2px solid cyan
+    
+}
+
+#casperimg{
+    position: absolute;
+    top: 27px;
+    height: 18%;
+    left: 35px;
+    width: 113px;
+    text-align: center;
+    padding: 20px;
+    border-radius: 6px;
+    
 }
