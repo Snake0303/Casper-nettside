@@ -166,7 +166,7 @@
 
 }
 
-#casper11{
+#casper11 {
     position: absolute;
     top: 40px;
     height: 3%;
@@ -178,10 +178,9 @@
     color: rgb(252, 249, 249);
     border-radius: 6px;
     border: 2px solid cyan
-    
 }
 
-#casperimg{
+#casperimg {
     position: absolute;
     top: 27px;
     height: 18%;
@@ -190,5 +189,51 @@
     text-align: center;
     padding: 20px;
     border-radius: 6px;
-    
+
+}
+
+#casper13 {
+    position: absolute;
+    background-color: rgb(0, 0, 0, 0.5);
+    top: 40px;
+    left: 430px;
+    color: white;
+    height: 50px;
+    padding: 25px;
+    width: 350px;
+    border: 2px solid cyan;
+    text-align: center;
+}
+
+#casper14 {
+    position: absolute;
+    background-color: rgb(0, 0, 0, 0.5);
+    top: 200px;
+    right: 20px;
+    height: 200px;
+    padding: 80px;
+    width: 230px;
+    border: 2px solid cyan;
+}
+
+#casper15 {
+    position: absolute;
+    background-color: rgb(0, 0, 0, 0.5);
+    top: 200px;
+    right: 430px;
+    height: 200px;
+    padding: 80px;
+    width: 230px;
+    border: 2px solid cyan;
+}
+
+#casper16 {
+    position: absolute;
+    background-color: rgb(0, 0, 0, 0.5);
+    top: 200px;
+    left: 20px;
+    height: 200px;
+    padding: 80px;
+    width: 230px;
+    border: 2px solid cyan;
 }
